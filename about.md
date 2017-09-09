@@ -12,9 +12,7 @@ Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* B.Tech in Electronics and Communication Engineering from National Institute of Technology
 
 ## Roles
 
@@ -52,4 +50,4 @@ Founder, ABC Organisation
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[raghuv7@vt.edu](mailto:raghuv7@vt.edu)
